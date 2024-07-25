@@ -1,7 +1,7 @@
 ---
 name: Daily log
 about: daily log
-title: '"{{date}}"'
+title: ''
 labels: ''
 assignees: ThaddeusJiang
 
