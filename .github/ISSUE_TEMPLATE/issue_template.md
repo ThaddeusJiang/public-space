@@ -1,7 +1,10 @@
 ---
 name: Daily log
-title: { { date } }
-assignees: "@thaddeusjiang"
+about: daily log
+title: '{{"date"=>nil}=>nil}'
+labels: ''
+assignees: ThaddeusJiang
+
 ---
 
 # I did
