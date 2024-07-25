@@ -1,9 +1,13 @@
-# {{ date }}
+---
+name: Daily log
+title: { { date } }
+assignees: "@thaddeusjiang"
+---
 
-## I did
+# I did
 
 - [ ] ...
 
-## I will
+# I will
 
 - [ ] ...
