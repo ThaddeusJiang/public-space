@@ -1,7 +1,7 @@
 ---
 name: Daily log
 about: daily log
-title: '{{"date"=>nil}=>nil}'
+title: '"{{date}}"'
 labels: ''
 assignees: ThaddeusJiang
 
